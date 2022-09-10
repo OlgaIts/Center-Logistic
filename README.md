@@ -1,6 +1,6 @@
 # Center-Logistic
 
-Center-Logistic – transport company website.
+[Center-Logistic](https://olgaits.github.io/Center-Logistic/)  – transport company website.
 
 Another study project
 
